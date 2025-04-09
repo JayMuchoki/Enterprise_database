@@ -1,0 +1,16 @@
+ProductId,ProductName,Category,Price,Product_Quantity,SupplierId
+201,Smartphone,Electronics,15000,50,304
+202,Laptop,Electronics,60000,20,301
+203,Tablet,Electronics,25000,30,301
+204,Smart TV,Electronics,45000,15,305
+205,Wireless Earbuds,Electronics,8000,100,302
+206,Refrigerator,Home Appliances,70000,10,303
+207,Microwave,Home Appliances,15000,25,303
+208,Blender,Home Appliances,5000,40,303
+209,Gas Cooker,Home Appliances,20000,15,303
+210,Washing Machine,Home Appliances,55000,5,303
+211,Monitor,Computing,30000,22,305
+212,Keyboard,Computing,5000,45,305
+213,Office Chair,Furniture,12000,30,306
+214,Bookshelf,Furniture,15000,18,306
+215,Headphones,Electronics,10000,65,302
