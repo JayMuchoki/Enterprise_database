@@ -43,6 +43,9 @@ Add  constraint fk_supplier_id foreign key (SupplierId) references Suppliers(Sup
 
 select * from Products
 
+
+----------------- creating table employees and inserting the table ------------------------
+
 Create table Suppliers (
 	SupplierId int identity(301,1) primary key,
 	SupplierName Varchar(50) unique not null,
